@@ -1,0 +1,6 @@
+src/config.json
+src/config.json.template
+spotify-auth-store.json
+build/
+.idea/
+node_modules/
